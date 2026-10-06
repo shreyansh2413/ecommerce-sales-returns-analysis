@@ -123,6 +123,13 @@ operational and product-level issues.
 - Use high-performing products and categories to guide
   inventory and marketing decisions.
 
-## Dashboard
+## Business Impact
 
-![Dashboard](dashboard/dashboard.png)
+The analysis helps answer three major business questions:
+
+1. Where is the revenue coming from?
+2. Which products/categories are driving profitability?
+3. Where are returns creating potential revenue leakage?
+
+The dashboard allows stakeholders to quickly monitor sales,
+profitability, order status, and return performance.
